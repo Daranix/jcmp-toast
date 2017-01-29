@@ -1,6 +1,7 @@
 # jcmp-toast
 
-[[https://github.com/username/repository/blob/master/img/octocat.png|alt=octocat]]
+[](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
 
 Toast's for Just Cause 3, using [jQuery toast plugin](https://github.com/kamranahmedse/jquery-toast-plugin)
 
